@@ -66,7 +66,7 @@ adnan  ''';*/
 
   switch(op){
     case '+':
-      output=add(x,y);
+      output=add(10,4);
       break;
     case '-':
       output= sub(x, y);
